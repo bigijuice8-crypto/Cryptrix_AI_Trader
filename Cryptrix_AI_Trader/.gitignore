@@ -1,0 +1,5 @@
+.env
+cryptrix.db
+users.json
+__pycache__/
+*.pyc
